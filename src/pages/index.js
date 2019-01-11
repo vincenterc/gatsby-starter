@@ -1,3 +1,4 @@
-import React from "react"
+import React from 'react'
+import PageWrapper from '../components/PageWrapper'
 
-export default () => <div>Gatsby starter!</div>
+export default PageWrapper(() => <div>Gatsby starter!</div>)
