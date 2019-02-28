@@ -1,6 +1,6 @@
 {
-  "name": "mouse-control",
-  "description": "mouse-control-ex",
+  "name": "gatsby-starter",
+  "description": "A starter for Gatsby",
   "version": "0.1.0",
   "scripts": {
     "develop": "gatsby develop",
