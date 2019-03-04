@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import './Layout.css'
+import './layout.css'
 
 class Layout extends React.Component {
   render() {
