@@ -1,6 +1,6 @@
 {
   "name": "gatsby-starter",
-  "description": "A starter for Gatsby",
+  "description": "A starter template for Gatsby",
   "version": "0.1.0",
   "scripts": {
     "develop": "gatsby develop",
