@@ -1,5 +1,5 @@
 # gatsby-starter
 
-A starter template for [Gatsby][].
+A starter template for [Gatsby.js][].
 
-[Gatsby]: https://www.gatsbyjs.org/
+[Gatsby.js]: https://www.gatsbyjs.org/
