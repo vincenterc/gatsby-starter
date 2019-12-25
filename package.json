@@ -1,6 +1,6 @@
 {
   "name": "gatsby-starter",
-  "description": "A starter template for Gatsby.js",
+  "description": "A starter for Gatsby.js",
   "version": "0.1.0",
   "scripts": {
     "clean": "gatsby clean",
