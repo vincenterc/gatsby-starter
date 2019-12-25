@@ -3,6 +3,8 @@
   "description": "A starter template for Gatsby.js",
   "version": "0.1.0",
   "scripts": {
+    "clean": "gatsby clean",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "develop": "gatsby develop",
     "start": "npm run develop",
     "build": "gatsby build",
