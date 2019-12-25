@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":[],"mappings":"2FAAA,gCAEe,4BAAM","file":"component---src-pages-index-js-b1af0094d48316519844.js","sourcesContent":["import React from 'react'\r\n\r\nexport default () => <h1>Gatsby starter!</h1>\r\n"],"sourceRoot":""}

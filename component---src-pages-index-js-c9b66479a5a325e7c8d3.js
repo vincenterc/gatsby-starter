@@ -1,2 +1,2 @@
 (window.webpackJsonp=window.webpackJsonp||[]).push([[2],{RXBc:function(n,t,e){"use strict";e.r(t);var a=e("q1tI"),r=e.n(a);t.default=function(){return r.a.createElement("h1",null,"Gatsby starter!")}}}]);
-//# sourceMappingURL=component---src-pages-index-js-b1af0094d48316519844.js.map
+//# sourceMappingURL=component---src-pages-index-js-c9b66479a5a325e7c8d3.js.map
